@@ -1,1 +1,1 @@
-# slsdr
+# SDR module for CubeSats
