@@ -1,1 +1,1 @@
-# SDR module for CubeSats
+# Software Defined Radio (SDR) Module for CubeSats
